@@ -56,6 +56,4 @@ subplot_titles =
    fig.update_layout(template = "plotly_dark", title = "Sales Dashboard", width = 800, height = 600, legend_orientation = "v")
    fig.show()
  
-   fig.write_html("dashboard.html", auto_open = True)
- 
 dashboard()
