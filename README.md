@@ -1,5 +1,7 @@
 # Sales Dashboard
 
+![image]("image.png")
+
 In this project, I built a dashboard about a fictional Supermarket's sales to help them better monitor their own metrics.
 
 # Link to access
